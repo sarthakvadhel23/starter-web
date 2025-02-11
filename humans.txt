@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Name	Name@abc.com	@NameGod
 
 # THANKS
 
