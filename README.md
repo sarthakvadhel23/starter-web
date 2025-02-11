@@ -12,6 +12,7 @@ Sample website with plenty of files for demos and resources
 Simple web project can be deployed on any web server
 
 ## How to contribute
+Fork this repository and issue a pull request
 
 ### Copyright
 2025 git udemy course
