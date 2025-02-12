@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. ADding a line for rebasing example/exercise
 
 ## Introduction
 Show difference commands of git using a web project
