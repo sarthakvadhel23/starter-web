@@ -15,4 +15,4 @@ Simple web project can be deployed on any web server
 Fork this repository and issue a pull request
 
 ### Copyright
-2025 git udemy course
+2025 git udemy course. All rights not reserved
